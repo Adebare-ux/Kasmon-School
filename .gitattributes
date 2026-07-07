@@ -1,0 +1,5 @@
+# Auto normalize line endings for all files
+* text=auto
+
+# Keep node_modules scripts as binary/executable
+node_modules/**/.bin/* binary
